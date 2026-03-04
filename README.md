@@ -1,66 +1,59 @@
-👩‍💻 Hi, I'm Samiksha Sapat
+## 👩‍💻 Hi, I'm Samiksha Sapat
 
-🚀 Frontend Developer | React.js | Vue.js | JavaScript
+### 🚀 Frontend Developer | React.js | Vue.js | JavaScript
 
 Frontend Developer with 3+ years of experience building scalable and high-performance web applications using React.js, Vue.js, and modern JavaScript (ES6+).
+
 Strong expertise in component-driven architecture, state management, performance optimization, and REST API integration.
 Passionate about crafting clean, maintainable, and user-focused web experiences.
 
-🌐 Connect With Me
-<!-- <p align="left"> <a href="https://www.linkedin.com/in/samiksha-sapat-6ab056208" target="_blank"> <button style="background-color:#0A66C2;color:white;border:none;padding:10px 20px;border-radius:6px;font-weight:bold;cursor:pointer;"> 🔗 Connect on LinkedIn </button> </a> </p> -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/samiksha-sapat-6ab056208">
-    <img src="https://img.shields.io/badge/Let's%20Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+# 🌐 Connect With Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/samiksha-sapat-6ab056208" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
-⚡️ Tech I'm Fluent With
-💻 Languages
 
-JavaScript · TypeScript · Java · Python · C++
+# ⚡️ Tech Stack
 
-🎨 Frontend
+🎨 Frontend: ReactJS · VueJS · JavaScript (ES6+) · HTML5 · CSS3
 
-React · Tailwind · Vite · Redux · DaisyUI
+🔁 State Management: Redux · Context API · React Hooks
 
-⚙️ Backend
+🖌 UI & Styling: Tailwind CSS · Bootstrap 5 · Vuetify · Flexbox · CSS Grid · Responsive Design · WCAG
 
-Node.js · Express · Spring Boot · Django
+🔗 API & Tools: REST APIs · Axios · Fetch API · Git · GitHub · Jira · Postman · VS Code
 
-🗄 Databases
+🏗 Build Tools: Vite · Webpack · NPM
 
-MongoDB · PostgreSQL · MySQL · Supabase · Redis
+⚙️ Backend: Node.js · Express.js · Python · Django (Basics)
 
-🚀 DevOps
+🗄 Databases: MySQL · MongoDB
 
-Docker · AWS · Nginx · Vercel · Netlify · Firebase
 
-🛠 Others
+# 📌 Featured Projects
+## 🚘 WhiteCar – Car Rental & Ride-Sharing Platform
 
-Git · GitHub · Figma · Stripe · Webhooks
+* Booking workflows (one-way, hourly, full-day)
 
-📌 Featured Projects
-🚘 WhiteCar – Car Rental & Ride-Sharing Platform
+* Dynamic filtering & route-based ride sharing
 
-Booking workflows (one-way, hourly, full-day)
+* Role-based authentication system
 
-Dynamic filtering & route-based ride sharing
+* Optimized UI performance & navigation
 
-Role-based authentication system
+## 📊 Intern Growth Tracking & Management System
 
-Optimized UI performance & navigation
+* Real-time analytics dashboard
 
-📊 Intern Growth Tracking & Management System
+* Multi-role authentication (Admin, Mentor, Intern)
 
-Real-time analytics dashboard
+* REST API integration
 
-Multi-role authentication (Admin, Mentor, Intern)
+* Performance optimization using memoization
 
-REST API integration
-
-Performance optimization using memoization
-
-📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Sami2703&show_icons=true&theme=tokyonight" height="170"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sami2703&theme=tokyonight" height="170"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sami2703&layout=compact&theme=tokyonight"/> </p>
+# 📈 GitHub Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sami2703&theme=tokyonight" height="170"/> </p> <p align="center"> </p>
 
 
 
