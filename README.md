@@ -1,8 +1,8 @@
 ## 👩‍💻 Hi, I'm Samiksha Sapat
 
-### 🚀 Frontend Developer | React.js | Vue.js | JavaScript
+### 🚀 Frontend Engineer | React.js | Vue.js | JavaScript
 
-Frontend Developer with 3+ years of experience building scalable and high-performance web applications using React.js, Vue.js, and modern JavaScript (ES6+).
+Frontend Engineer with 3+ years of experience building scalable and high-performance web applications using React.js, Vue.js, and modern JavaScript (ES6+).
 
 Strong expertise in component-driven architecture, state management, performance optimization, and REST API integration.
 Passionate about crafting clean, maintainable, and user-focused web experiences.
