@@ -14,6 +14,10 @@ Passionate about crafting clean, maintainable, and user-focused web experiences.
   </a>
 </p>
 
+# Profile Views
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sami2703&label=Profile%20views&color=0e75b6&style=flat" alt="samikshasapat" /> </p>
+
+
 # ⚡️ Tech Stack
 
 🎨 Frontend: ReactJS · VueJS · JavaScript (ES6+) · HTML5 · CSS3
